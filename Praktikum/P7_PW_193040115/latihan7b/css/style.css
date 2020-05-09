@@ -1,0 +1,13 @@
+.header {
+  background-color: grey;
+}
+tr, h3 {
+  text-align: center;
+}
+.gambar {
+  width: 200px;
+}
+h1 {
+font-family: stencil;
+text-align: center;
+}
