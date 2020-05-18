@@ -1,0 +1,185 @@
+
+* {
+  margin: 0;
+}
+
+body {
+  background-color: lightblue;
+  font-family: 'Karla', sans-serif;
+  /*font-weight: bold;*/
+  margin: 0;
+}
+
+header, main {
+      padding-left: 300px;
+}
+
+.recent, .portfolio, .talk {
+  background-color: #ddd;
+}
+
+nav {
+  background-color: green;
+}
+
+nav a {
+  color: #b8860b !important;
+  font-size: 20px !important;
+}
+
+ul.right.hide-on-med-and-down li a {
+  font-size: 14px !important;
+}
+
+.sidenav-trigger:hover {
+  color: #fff !important;
+}
+
+a.brand-logo:hover {
+  color: #fff !important;
+}
+
+.recent, .skills, .portfolio, .services, .talk, .container.about {
+  padding: 20px 0;
+}
+
+h1, h3, h4, h5, .navbar-fixed, .footer, .interested {
+  font-weight: bold;
+}
+
+h1, h5, h6 {
+  color: #003355;
+}
+
+h3 {
+  color: #b8860b;
+}
+
+.carousel .indicators .indicator-item {
+  background-color: #b8860b;
+}
+
+.carousel.carousel-slider {
+ height: 520px;
+}
+
+.carousel .indicators .indicator-item.active {
+  background-color: #003355;
+}
+
+.progress {
+  background-color: #ccc !important;
+}
+
+.determinate {
+  background-color: #003355 !important;
+}
+
+.tiny.material-icons {
+  font-size: 10px;
+}
+
+.slider .indicators .indicator-item {
+  background-color: #b8860b;
+}
+
+.slider .indicators .indicator-item.active {
+  background-color: #003355;
+}
+
+.parallax-container {
+  height: 350px;
+}
+
+.cont {
+  color: #b8860b;
+}
+
+.socmed:hover {
+  background-color: #444;
+  padding: 5px;
+  border-radius: 30%;
+}
+
+p.what, h1.center.here {
+  color: #b8860b;
+}
+
+textarea.materialize-textarea:focus:not([readonly]) {
+  border-bottom: 1px solid #003355;
+  -webkit-box-shadow: 0 1px 0 0 #003355;
+          box-shadow: 0 1px 0 0 #003355;
+}
+
+input:not([type]):focus:not([readonly]) + label,
+input[type=text]:not(.browser-default):focus:not([readonly]) + label,
+input[type=password]:not(.browser-default):focus:not([readonly]) + label,
+input[type=email]:not(.browser-default):focus:not([readonly]) + label,
+input[type=url]:not(.browser-default):focus:not([readonly]) + label,
+input[type=time]:not(.browser-default):focus:not([readonly]) + label,
+input[type=date]:not(.browser-default):focus:not([readonly]) + label,
+input[type=datetime]:not(.browser-default):focus:not([readonly]) + label,
+input[type=datetime-local]:not(.browser-default):focus:not([readonly]) + label,
+input[type=tel]:not(.browser-default):focus:not([readonly]) + label,
+input[type=number]:not(.browser-default):focus:not([readonly]) + label,
+input[type=search]:not(.browser-default):focus:not([readonly]) + label,
+textarea.materialize-textarea:focus:not([readonly]) + label {
+  color: #003355;
+}
+
+.select-wrapper input.select-dropdown:focus {
+  border-bottom: 1px solid #003355;
+}
+
+.dropdown-content span {
+  color: #003355 !important;
+}
+
+input:not([type]):focus:not([readonly]),
+input[type=text]:not(.browser-default):focus:not([readonly]),
+input[type=password]:not(.browser-default):focus:not([readonly]),
+input[type=email]:not(.browser-default):focus:not([readonly]),
+input[type=url]:not(.browser-default):focus:not([readonly]),
+input[type=time]:not(.browser-default):focus:not([readonly]),
+input[type=date]:not(.browser-default):focus:not([readonly]),
+input[type=datetime]:not(.browser-default):focus:not([readonly]),
+input[type=datetime-local]:not(.browser-default):focus:not([readonly]),
+input[type=tel]:not(.browser-default):focus:not([readonly]),
+input[type=number]:not(.browser-default):focus:not([readonly]),
+input[type=search]:not(.browser-default):focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]) {
+  border-bottom: 1px solid #003355;
+  -webkit-box-shadow: 0 1px 0 0 #003355;
+          box-shadow: 0 1px 0 0 #003355;
+}
+
+.btn {
+  background-color: #003355 !important;
+}
+
+.btn.waves-effect.waves-light {
+  color: #b8860b !important;
+}
+
+.footer {
+  background-color: #003355;
+  height: 50px;
+}
+
+p.copy {
+  color: #b8860b !important;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.btn-floating.btn-large {
+  background-color: #b8860b;
+}
+
+.material-icons.attach {
+  color: #003355;
+}
+
+.container.about p {
+  text-align: justify;
+}
